@@ -1,0 +1,45 @@
+body {
+    margin: 0px;
+
+    font-family: 'Indie Flower', cursive;
+    text-indent: 10px;
+
+    background-color: #838383;
+    background-size: cover;
+
+    color: whitesmoke;
+}
+
+nav {
+    padding: 10px 0 10px 0px;
+
+    text-align: right;
+    
+    background-color: #d9adad;
+}
+
+a {
+    color: white;
+    
+    font-size: 20px;
+    
+    margin-right: 10px;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto 0 auto;
+}
+
+td {
+    width: 250px;
+    height: 250px;
+
+    text-align: center;
+    
+    font-size: 36px;
+}

@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+
+    font-family: 'Indie Flower', cursive;
+}
+
+.block {
+    padding: 0 0 1000px 0;
+}
+
+p {
+    margin: 0px ;
+}
+
+.purple {
+    color: purple;
+}
